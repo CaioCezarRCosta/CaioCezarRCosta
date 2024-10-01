@@ -5,6 +5,9 @@
 <h2>Sobre mim</h2>
 <p>Sou um desenvolvedor com foco em Java e apaixonado por back-end, estrutura de dados, e desenvolvimento de APIs. Sempre em busca de novas tecnologias e de aprimorar minhas habilidades no desenvolvimento de sistemas.</p>
 
-Projetos em Destaque 🌟
-Turntable: Loja de vinil com login e cadastro de usuários.
-Estrutura de Dados: Implementação de várias estruturas de dados em Java.
+<h2>Projetos em Destaque 🌟</h2>
+<ul>
+  <li><strong>Turntable</strong>: Loja de vinil com login e cadastro de usuários.</li>
+  <li><strong>Estrutura de Dados</strong>: Implementação de várias estruturas de dados em Java.</li>
+</ul>
+
