@@ -2,14 +2,6 @@
 
 <h3>Analista de Dados | MIS | Business Intelligence</h3>
 
-<div align="center">
-  <a href="https://github.com/CaioCezarRCosta">
-   <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=CaioCezarRCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarRCosta&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-
-  </a>
-</div>
-
 <h2>Ferramentas e Tecnologias que uso no dia a dia 📊</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
