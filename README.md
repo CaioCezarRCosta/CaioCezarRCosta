@@ -28,8 +28,3 @@ Tenho experiência com <strong>dados de call center, produtividade, SLA, perform
   </li>
 </ul>
 
-<h2>📊 Estatísticas do GitHub</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=CaioCezarRCosta&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarRCosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</div>
